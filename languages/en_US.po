@@ -1,0 +1,3469 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zỏka\n"
+"POT-Creation-Date: 2015-04-24 09:45+0700\n"
+"PO-Revision-Date: 2015-04-24 09:46+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: svn\\zorka\\trunk\n"
+"X-Poedit-SearchPath-0: svn\\zorka\\trunk\n"
+
+#: svn\zorka\trunk/404.php:4
+msgid "404 ERROR!"
+msgstr ""
+
+#: svn\zorka\trunk/404.php:5
+msgid "The page you are looking for does not exist. Return to the "
+msgstr ""
+
+#: svn\zorka\trunk/404.php:5
+msgid "home page."
+msgstr ""
+
+#: svn\zorka\trunk/archive-top.php:6
+msgid "Nothing Found"
+msgstr ""
+
+#: svn\zorka\trunk/archive-top.php:9
+msgid "Blog"
+msgstr ""
+
+#: svn\zorka\trunk/archive-top.php:17
+msgid "Tags: "
+msgstr ""
+
+#: svn\zorka\trunk/archive-top.php:19
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: svn\zorka\trunk/archive-top.php:21
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: svn\zorka\trunk/archive-top.php:23
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: svn\zorka\trunk/archive-top.php:25
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: svn\zorka\trunk/archive-top.php:27
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: svn\zorka\trunk/archive-top.php:29
+msgid "Asides"
+msgstr ""
+
+#: svn\zorka\trunk/archive-top.php:31
+msgid "Galleries"
+msgstr ""
+
+#: svn\zorka\trunk/archive-top.php:33
+#: svn\zorka\trunk/lib/meta-box.php:54
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:983
+msgid "Images"
+msgstr ""
+
+#: svn\zorka\trunk/archive-top.php:35
+msgid "Videos"
+msgstr ""
+
+#: svn\zorka\trunk/archive-top.php:37
+msgid "Quotes"
+msgstr ""
+
+#: svn\zorka\trunk/archive-top.php:39
+msgid "Links"
+msgstr ""
+
+#: svn\zorka\trunk/archive-top.php:41
+msgid "Statuses"
+msgstr ""
+
+#: svn\zorka\trunk/archive-top.php:43
+msgid "Audios"
+msgstr ""
+
+#: svn\zorka\trunk/archive-top.php:45
+msgid "Chats"
+msgstr ""
+
+#: svn\zorka\trunk/archive-top.php:47
+msgid "Archives"
+msgstr ""
+
+#: svn\zorka\trunk/comments.php:16
+msgid "No Comments"
+msgstr ""
+
+#: svn\zorka\trunk/comments.php:16
+msgid "One Comment"
+msgstr ""
+
+#: svn\zorka\trunk/comments.php:16
+msgid "Comments (%)"
+msgstr ""
+
+#: svn\zorka\trunk/content-link.php:43
+#: svn\zorka\trunk/content-page.php:6
+#: svn\zorka\trunk/content-quote.php:26
+#: svn\zorka\trunk/content.php:54
+msgid "Pages:"
+msgstr ""
+
+#: svn\zorka\trunk/content-none.php:11
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: svn\zorka\trunk/content-none.php:15
+#: svn\zorka\trunk/lib/ajax-action/search-ajax-action.php:51
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: svn\zorka\trunk/content-none.php:19
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: svn\zorka\trunk/content-page.php:12
+#: svn\zorka\trunk/lib/breadcrumb.php:231
+#: svn\zorka\trunk/lib/breadcrumb.php:245
+#: svn\zorka\trunk/lib/breadcrumb.php:265
+#: svn\zorka\trunk/lib/template-tags.php:321
+msgid "Edit"
+msgstr ""
+
+#: svn\zorka\trunk/content.php:47
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/latest-post/latest-post.php:84
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/latest-post/latest-post.php:110
+msgid "Read more"
+msgstr ""
+
+#: svn\zorka\trunk/functions.php:29
+#: svn\zorka\trunk/functions.php:64
+#, php-format
+msgid "Error locating %s for inclusion"
+msgstr ""
+
+#: svn\zorka\trunk/admin/classes/class.options_machine.php:1313
+msgid "Last Backup : "
+msgstr ""
+
+#: svn\zorka\trunk/admin/classes/class.options_machine.php:1657
+msgid "Install demo data get images from our demo site to your hosting"
+msgstr ""
+
+#: svn\zorka\trunk/admin/classes/class.options_machine.php:1658
+msgid "Take about 3-35 mins"
+msgstr ""
+
+#: svn\zorka\trunk/admin/classes/class.options_machine.php:1667
+msgid "Reset theme options..."
+msgstr ""
+
+#: svn\zorka\trunk/admin/classes/class.options_machine.php:1675
+msgid "Installing demo data..."
+msgstr ""
+
+#: svn\zorka\trunk/admin/classes/class.options_machine.php:1683
+msgid "Setup slider..."
+msgstr ""
+
+#: svn\zorka\trunk/admin/front-end/options.php:51
+#: svn\zorka\trunk/admin/front-end/options.php:77
+msgid "Generate Less to CSS"
+msgstr ""
+
+#: svn\zorka\trunk/admin/front-end/options.php:54
+#: svn\zorka\trunk/admin/front-end/options.php:78
+msgid "Save All Changes"
+msgstr ""
+
+#: svn\zorka\trunk/admin/front-end/options.php:79
+msgid "Options Reset"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:102
+#: svn\zorka\trunk/admin/functions/functions.options.php:106
+msgid "Install Demo Data"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:110
+msgid ""
+"Before you begin, make sure all the required plugins are activated <br/> "
+"When click \"Install demo data...\" button. Your site will be made same site "
+"demo with your old data what will be kept"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:113
+msgid "General Settings"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:119
+msgid "Logo"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:120
+#: svn\zorka\trunk/admin/functions/functions.options.php:128
+msgid "Enter URL or Upload an image file as your logo."
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:127
+msgid "Logo White"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:135
+msgid "Favicon"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:136
+msgid ""
+"Enter URL or upload an icon image to represent your website's favicon (16px "
+"x 16px)"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:143
+msgid "Archive Paging Style"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:144
+msgid "Select paging style for Archive Page"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:157
+msgid "Archive Layout"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:158
+msgid "Select layout for Archive Page"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:169
+#: svn\zorka\trunk/lib/meta-box.php:166
+msgid "Page Layout"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:170
+msgid "Select layout for Page"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:182
+msgid "Single Portfolio Style"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:183
+msgid "Select style for single portfolio page"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:197
+msgid "Show Back To Top"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:198
+msgid "show-back-to-top"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:205
+msgid "Show Loading"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:206
+msgid "show-loading"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:214
+msgid "Show Panel Selector Style"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:215
+msgid "show-panel-selector-style"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:224
+msgid "Site Top Options"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:229
+msgid "Show Site Top"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:236
+msgid "Show Language Selector"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:243
+msgid "Show Login Link"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:250
+msgid "Show Mini Cart"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:258
+msgid "Header Options"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:264
+msgid "Header Layout"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:265
+msgid "Select layout for Header"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:286
+msgid "Footer Options"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:291
+msgid "Footer Layout"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:292
+msgid "Select layout for Footer"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:297
+#: svn\zorka\trunk/lib/meta-box.php:214
+msgid "Light"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:298
+#: svn\zorka\trunk/lib/meta-box.php:215
+msgid "Dark"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:303
+msgid "Visa Url"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:308
+msgid "Paypal Url"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:313
+msgid "2CO Url"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:318
+msgid "American Express Url"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:323
+msgid "Skrill Url"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:328
+msgid "Google Wallet Url"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:333
+msgid "Western Union Url"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:340
+msgid "Copyright Text"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:341
+msgid ""
+"You can use the following shortcodes in your footer text: [wp-link] [theme-"
+"link] [loginout-link] [blog-title] [blog-link] [the-year]"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:347
+msgid "Styling Options"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:351
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:140
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:176
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:243
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:320
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:711
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:857
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:899
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:933
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1050
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1092
+msgid "Layout Style"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:352
+msgid "Select a layout"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:362
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:184
+msgid "Background Images"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:370
+msgid "Background Pattern"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:371
+msgid "Select a background pattern."
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:379
+msgid "Upload Background"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:380
+msgid "Upload your own background"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:387
+msgid "Background Repeat"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:392
+#: svn\zorka\trunk/lib/template-tags.php:284
+msgid "repeat"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:392
+msgid "repeat-x"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:392
+msgid "repeat-y"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:392
+msgid "no-repeat"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:395
+msgid "Background Position"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:400
+msgid "left top"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:401
+msgid "left center"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:402
+msgid "left bottom"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:403
+msgid "right top"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:404
+msgid "right center"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:405
+msgid "right bottom"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:406
+msgid "center top"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:407
+msgid "center center"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:408
+msgid "center bottom"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:412
+msgid "Background Attachment"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:417
+msgid "scroll"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:418
+msgid "fixed"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:419
+msgid "local"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:420
+#: svn\zorka\trunk/admin/functions/functions.options.php:433
+msgid "initial"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:421
+#: svn\zorka\trunk/admin/functions/functions.options.php:434
+msgid "inherit"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:425
+msgid "Background Size"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:430
+msgid "auto"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:431
+msgid "cover"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:432
+msgid "contain"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:439
+#: svn\zorka\trunk/lib/ajax-action/register-ajax-action.php:182
+msgid "Primary Color"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:440
+msgid "Pick a primary color for the theme."
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:446
+msgid "Text Color"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:447
+msgid "Pick a text color for the theme."
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:453
+msgid "Text Bold Color"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:454
+msgid "Pick a text bold color for the theme."
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:465
+msgid "Social"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:471
+msgid "Social Sharing Box"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:472
+msgid "Show the social sharing in blog posts."
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:476
+#: svn\zorka\trunk/templates/header/social-link.php:7
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/our-team/our-team.php:194
+msgid "Facebook"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:476
+#: svn\zorka\trunk/templates/header/social-link.php:8
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/our-team/our-team.php:197
+msgid "Twitter"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:476
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/our-team/our-team.php:200
+msgid "Google"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:476
+msgid "LinkedIn"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:476
+msgid "Tumblr"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:476
+#: svn\zorka\trunk/templates/header/social-link.php:12
+msgid "Pinterest"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:479
+msgid "Email Link"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:484
+msgid "LinkedIn Link"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:489
+msgid "Facebook Link"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:495
+msgid "Twitter Link"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:500
+msgid "Dribbble Link"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:507
+msgid "Google Link"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:513
+msgid "Vimeo Link"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:518
+msgid "Pinterest Link"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:523
+msgid "Youtube Link"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:528
+msgid "Instagram Link"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:535
+msgid "WooCommerce"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:540
+msgid "Archive Product Layout"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:541
+msgid "Select layout for Archive Product Page"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:553
+msgid "Shop Page Title Background"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:554
+msgid ""
+"Enter URL or upload an image to set as your heading background with page "
+"shop title"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:563
+msgid "Typography"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:568
+msgid "Body Font"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:569
+msgid "Specify the body font properties"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:575
+msgid "Heading Options"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:582
+msgid "Font H1"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:588
+msgid "Font H2"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:594
+msgid "Font H3"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:600
+msgid "Font H4"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:606
+msgid "Font H5"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:612
+msgid "Font H6"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:620
+msgid "Resources Options"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:624
+msgid "CDN Bootstrap Script"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:631
+msgid "CDN Bootstrap StyleSheet"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:638
+msgid "CDN Font Awesome"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:646
+#: svn\zorka\trunk/admin/functions/functions.options.php:651
+msgid "Custom CSS"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:659
+msgid "Backup Options"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:664
+msgid "Backup and Restore Options"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:668
+msgid ""
+"You can use the two buttons below to backup your current options, and then "
+"restore it back at a later time. This is useful if you want to experiment on "
+"the options but would like to keep the old settings in case you need it back."
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:671
+msgid "Transfer Theme Options Data"
+msgstr ""
+
+#: svn\zorka\trunk/admin/functions/functions.options.php:675
+msgid ""
+"You can tranfer the saved options data between different installs by copying "
+"the text inside the text box. To import data from another install, replace "
+"the data in the text box with the one from another install and click "
+"\"Import Options\"."
+msgstr ""
+
+#: svn\zorka\trunk/lib/breadcrumb.php:117
+#: svn\zorka\trunk/lib/breadcrumb.php:120
+#: svn\zorka\trunk/lib/breadcrumb.php:123
+msgid "Archives for "
+msgstr ""
+
+#: svn\zorka\trunk/lib/breadcrumb.php:127
+msgid "Archives by: "
+msgstr ""
+
+#: svn\zorka\trunk/lib/breadcrumb.php:133
+msgid "Search results for \""
+msgstr ""
+
+#: svn\zorka\trunk/lib/breadcrumb.php:137
+msgid "Page Not Found"
+msgstr ""
+
+#: svn\zorka\trunk/lib/breadcrumb.php:225
+msgid "Split"
+msgstr ""
+
+#: svn\zorka\trunk/lib/breadcrumb.php:228
+msgid "Merge"
+msgstr ""
+
+#: svn\zorka\trunk/lib/filter.php:52
+msgid "Search..."
+msgstr ""
+
+#: svn\zorka\trunk/lib/filter.php:96
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: svn\zorka\trunk/lib/filter.php:214
+msgid "Shop By Categories"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:35
+msgid "Post Format: Image"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:40
+msgid "Image"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:49
+msgid "Post Format: Gallery"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:62
+msgid "Post Format: Video"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:67
+msgid "Video URL or Embeded Code"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:75
+msgid "Post Format: Audio"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:80
+msgid "Audio URL or Embeded Code"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:92
+msgid "Page Settings"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:96
+msgid "Page Title Area"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:101
+msgid "Hide Page Title Area?"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:108
+msgid "Select Page Title Style"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:121
+msgid "Custom Page Title"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:124
+msgid "Leave empty to use post title"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:128
+msgid "Custom Page Sub Title"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:133
+msgid "Custom Page Title Background"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:140
+msgid "Custom Layout"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:145
+msgid "Use Custom Layout?"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:149
+#, php-format
+msgid ""
+"This will <b>overwrite</b> layout settings in <a href=\"%s\" target=\"_blank"
+"\">Theme Options</a> with values different <b>none</b>."
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:152
+msgid "Select Layout Style"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:156
+#: svn\zorka\trunk/lib/meta-box.php:188
+#: svn\zorka\trunk/lib/meta-box.php:213
+#: svn\zorka\trunk/lib/tax-meta.php:37
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/portfolio.php:154
+msgid "None"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:157
+#: svn\zorka\trunk/lib/ajax-action/register-ajax-action.php:196
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:312
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:414
+msgid "Wide"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:158
+#: svn\zorka\trunk/lib/ajax-action/register-ajax-action.php:197
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:313
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:415
+msgid "Boxed"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:172
+#: svn\zorka\trunk/lib/tax-meta.php:37
+msgid "Full Width"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:173
+msgid "Container Full Width"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:174
+#: svn\zorka\trunk/lib/tax-meta.php:37
+msgid "Left Sidebar"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:175
+#: svn\zorka\trunk/lib/tax-meta.php:37
+msgid "Right Sidebar"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:180
+msgid "Custom Header"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:184
+msgid "Select Header Layout"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:189
+msgid "Header 1"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:190
+msgid "Header 2"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:191
+msgid "Header 3"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:192
+msgid "Header 4"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:193
+msgid "Header 5"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:194
+msgid "Header 6"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:195
+msgid "Header 7"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:196
+msgid "Header 8"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:197
+msgid "Header 9"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:198
+msgid "Header 10"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:205
+msgid "Custom Footer"
+msgstr ""
+
+#: svn\zorka\trunk/lib/meta-box.php:209
+msgid "Select Footer Layout"
+msgstr ""
+
+#: svn\zorka\trunk/lib/sidebar.php:4
+#: svn\zorka\trunk/lib/sidebar.php:6
+msgid "Primary Widget Area"
+msgstr ""
+
+#: svn\zorka\trunk/lib/sidebar.php:14
+#: svn\zorka\trunk/lib/sidebar.php:16
+msgid "Shop Widget Area"
+msgstr ""
+
+#: svn\zorka\trunk/lib/sidebar.php:24
+#: svn\zorka\trunk/lib/sidebar.php:26
+msgid "Home Shop Widget Area"
+msgstr ""
+
+#: svn\zorka\trunk/lib/sidebar.php:34
+#: svn\zorka\trunk/lib/sidebar.php:36
+msgid "Footer 1 Sidebar"
+msgstr ""
+
+#: svn\zorka\trunk/lib/sidebar.php:44
+#: svn\zorka\trunk/lib/sidebar.php:46
+msgid "Footer 2 Sidebar"
+msgstr ""
+
+#: svn\zorka\trunk/lib/sidebar.php:54
+#: svn\zorka\trunk/lib/sidebar.php:56
+msgid "Footer 3 Sidebar"
+msgstr ""
+
+#: svn\zorka\trunk/lib/sidebar.php:64
+#: svn\zorka\trunk/lib/sidebar.php:66
+msgid "Footer 4 Sidebar"
+msgstr ""
+
+#: svn\zorka\trunk/lib/tax-meta.php:34
+msgid "Page Title Background "
+msgstr ""
+
+#: svn\zorka\trunk/lib/tax-meta.php:37
+#: svn\zorka\trunk/lib/ajax-action/register-ajax-action.php:194
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:309
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:411
+msgid "Layout"
+msgstr ""
+
+#: svn\zorka\trunk/lib/template-tags.php:247
+msgid "play"
+msgstr ""
+
+#: svn\zorka\trunk/lib/template-tags.php:248
+msgid "pause"
+msgstr ""
+
+#: svn\zorka\trunk/lib/template-tags.php:259
+msgid "mute"
+msgstr ""
+
+#: svn\zorka\trunk/lib/template-tags.php:262
+msgid "unmute"
+msgstr ""
+
+#: svn\zorka\trunk/lib/template-tags.php:278
+msgid "shuffle"
+msgstr ""
+
+#: svn\zorka\trunk/lib/template-tags.php:281
+msgid "shuffle off"
+msgstr ""
+
+#: svn\zorka\trunk/lib/template-tags.php:287
+msgid "repeat off"
+msgstr ""
+
+#: svn\zorka\trunk/lib/template-tags.php:294
+#, php-format
+msgid ""
+"<span>Update Required</span> To play the media you will need to either "
+"update your browser to a recent version or update your <a href=\"%s\" target="
+"\"_blank\">Flash plugin</a>."
+msgstr ""
+
+#: svn\zorka\trunk/lib/template-tags.php:316
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: svn\zorka\trunk/lib/template-tags.php:326
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: svn\zorka\trunk/lib/template-tags.php:347
+msgid "Your Name*"
+msgstr ""
+
+#: svn\zorka\trunk/lib/template-tags.php:351
+msgid "Your Email*"
+msgstr ""
+
+#: svn\zorka\trunk/lib/template-tags.php:358
+msgid "Your Comment"
+msgstr ""
+
+#: svn\zorka\trunk/lib/template-tags.php:363
+msgid "Your email address will not be published."
+msgstr ""
+
+#: svn\zorka\trunk/lib/template-tags.php:368
+msgid "Leave a Comment"
+msgstr ""
+
+#: svn\zorka\trunk/lib/template-tags.php:369
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr ""
+
+#: svn\zorka\trunk/lib/template-tags.php:370
+msgid "Cancel reply"
+msgstr ""
+
+#: svn\zorka\trunk/lib/template-tags.php:371
+msgid "Add Comment"
+msgstr ""
+
+#: svn\zorka\trunk/lib/template-tags.php:392
+msgid "Comments"
+msgstr ""
+
+#: svn\zorka\trunk/lib/template-tags.php:424
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/templates/listing.php:78
+msgid "Loading..."
+msgstr ""
+
+#: svn\zorka\trunk/lib/template-tags.php:425
+msgid "Load More"
+msgstr ""
+
+#: svn\zorka\trunk/lib/template-tags.php:468
+msgid "<i class=\"pe-7s-comment\"></i> 0 Comment"
+msgstr ""
+
+#: svn\zorka\trunk/lib/template-tags.php:468
+msgid "<i class=\"pe-7s-comment\"></i> 1 Comment"
+msgstr ""
+
+#: svn\zorka\trunk/lib/template-tags.php:468
+msgid "<i class=\"pe-7s-comment\"></i> % Comments"
+msgstr ""
+
+#: svn\zorka\trunk/lib/template-tags.php:472
+msgid "<i class=\"pe-7s-hammer\"></i> Edit"
+msgstr ""
+
+#: svn\zorka\trunk/lib/template-tags.php:585
+msgid "Share"
+msgstr ""
+
+#: svn\zorka\trunk/lib/template-tags.php:588
+#: svn\zorka\trunk/woocommerce/single-product/share.php:35
+msgid "Share on Facebook"
+msgstr ""
+
+#: svn\zorka\trunk/lib/template-tags.php:591
+#: svn\zorka\trunk/woocommerce/single-product/share.php:41
+msgid "Share on Twitter"
+msgstr ""
+
+#: svn\zorka\trunk/lib/template-tags.php:594
+#: svn\zorka\trunk/woocommerce/single-product/share.php:47
+msgid "Share on Google +1"
+msgstr ""
+
+#: svn\zorka\trunk/lib/template-tags.php:597
+#: svn\zorka\trunk/woocommerce/single-product/share.php:53
+msgid "Share on Linkedin"
+msgstr ""
+
+#: svn\zorka\trunk/lib/template-tags.php:600
+#: svn\zorka\trunk/woocommerce/single-product/share.php:59
+msgid "Share on Tumblr"
+msgstr ""
+
+#: svn\zorka\trunk/lib/template-tags.php:603
+#: svn\zorka\trunk/woocommerce/single-product/share.php:65
+msgid "Share on Pinterest"
+msgstr ""
+
+#: svn\zorka\trunk/lib/woocommerce-lib.php:72
+msgid "Product New"
+msgstr ""
+
+#: svn\zorka\trunk/lib/woocommerce-lib.php:133
+msgid "Search for products"
+msgstr ""
+
+#: svn\zorka\trunk/lib/ajax-action/login-link-action.php:10
+#: svn\zorka\trunk/lib/ajax-action/login-link-action.php:107
+msgid "Close"
+msgstr ""
+
+#: svn\zorka\trunk/lib/ajax-action/login-link-action.php:11
+#: svn\zorka\trunk/lib/ajax-action/login-link-action.php:40
+#: svn\zorka\trunk/woocommerce/checkout/form-login.php:57
+msgid "Login"
+msgstr ""
+
+#: svn\zorka\trunk/lib/ajax-action/login-link-action.php:16
+#: svn\zorka\trunk/lib/ajax-action/login-link-action.php:113
+msgid "Username:"
+msgstr ""
+
+#: svn\zorka\trunk/lib/ajax-action/login-link-action.php:18
+#: svn\zorka\trunk/lib/ajax-action/login-link-action.php:115
+msgid "Username"
+msgstr ""
+
+#: svn\zorka\trunk/lib/ajax-action/login-link-action.php:23
+msgid "Password:"
+msgstr ""
+
+#: svn\zorka\trunk/lib/ajax-action/login-link-action.php:25
+msgid "Password"
+msgstr ""
+
+#: svn\zorka\trunk/lib/ajax-action/login-link-action.php:36
+msgid "NO"
+msgstr ""
+
+#: svn\zorka\trunk/lib/ajax-action/login-link-action.php:36
+msgid "YES"
+msgstr ""
+
+#: svn\zorka\trunk/lib/ajax-action/login-link-action.php:37
+msgid "Remember me"
+msgstr ""
+
+#: svn\zorka\trunk/lib/ajax-action/login-link-action.php:108
+msgid "Sign Up"
+msgstr ""
+
+#: svn\zorka\trunk/lib/ajax-action/login-link-action.php:120
+msgid "Email:"
+msgstr ""
+
+#: svn\zorka\trunk/lib/ajax-action/login-link-action.php:122
+#: svn\zorka\trunk/templates/header/social-link.php:5
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/our-team/our-team.php:100
+msgid "Email"
+msgstr ""
+
+#: svn\zorka\trunk/lib/ajax-action/login-link-action.php:126
+msgid "A password will be e-mailed to you"
+msgstr ""
+
+#: svn\zorka\trunk/lib/ajax-action/login-link-action.php:133
+#: svn\zorka\trunk/templates/header/login-link.php:11
+msgid "Register"
+msgstr ""
+
+#: svn\zorka\trunk/lib/ajax-action/login-link-action.php:163
+msgid "<strong>ERROR:</strong> "
+msgstr ""
+
+#: svn\zorka\trunk/lib/ajax-action/register-ajax-action.php:76
+msgid "No classes found"
+msgstr ""
+
+#: svn\zorka\trunk/lib/ajax-action/register-ajax-action.php:179
+msgid "Style Selector"
+msgstr ""
+
+#: svn\zorka\trunk/lib/ajax-action/register-ajax-action.php:202
+msgid "Background"
+msgstr ""
+
+#: svn\zorka\trunk/lib/ajax-action/register-ajax-action.php:218
+msgid "Reset"
+msgstr ""
+
+#: svn\zorka\trunk/lib/ajax-action/search-product-ajax-action.php:12
+msgid "Sorry, WooCommerce is not installed! "
+msgstr ""
+
+#: svn\zorka\trunk/lib/ajax-action/search-product-ajax-action.php:64
+msgid "Products not found. Please try again with different keywords."
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/parsers.php:43
+#: svn\zorka\trunk/lib/import/parsers.php:80
+#: svn\zorka\trunk/lib/import/parsers.php:88
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/parsers.php:44
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/parsers.php:92
+#: svn\zorka\trunk/lib/import/parsers.php:97
+#: svn\zorka\trunk/lib/import/parsers.php:290
+#: svn\zorka\trunk/lib/import/parsers.php:477
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:318
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:327
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:378
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:382
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:391
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:319
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:362
+msgid "All done."
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:362
+msgid "Have fun!"
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:363
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:383
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:399
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:424
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:450
+msgid "Assign Authors"
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:451
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:453
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:463
+msgid "Import Attachments"
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:466
+msgid "Download and import file attachments"
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:483
+msgid "Import author:"
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:494
+msgid "or create new user with login name:"
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:497
+msgid "as a new user:"
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:505
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:507
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:508
+msgid "- Select -"
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:558
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:609
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:649
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:695
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:854
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:739
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:761
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:820
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:987
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:994
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:1087
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:1100
+msgid "Invalid file type"
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:1144
+msgid "Remote server did not respond"
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:1150
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:1157
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:1162
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:1168
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:1266
+msgid "Import WordPress"
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:1273
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:1288
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:1289
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: svn\zorka\trunk/lib/import/wordpress-importer.php:1364
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:226
+#: svn\zorka\trunk/lib/inc-functions/register-require-plugin.php:144
+msgid "Install Required Plugins"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:227
+#: svn\zorka\trunk/lib/inc-functions/register-require-plugin.php:145
+msgid "Install Plugins"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:228
+#: svn\zorka\trunk/lib/inc-functions/register-require-plugin.php:146
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:229
+msgid "Something went wrong."
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:240
+#: svn\zorka\trunk/lib/inc-functions/register-require-plugin.php:158
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:241
+msgid "Return to the dashboard"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:242
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:2107
+#: svn\zorka\trunk/lib/inc-functions/register-require-plugin.php:159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:243
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:244
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:245
+msgid "Dismiss this notice"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:1281
+msgid "Private Repository"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:1285
+msgid "Pre-Packaged"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:1290
+msgid "WordPress Repository"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:1293
+msgid "Required"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:1293
+msgid "Recommended"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:1296
+msgid "Not Installed"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:1299
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:1481
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\">Return to the Dashboard</"
+"a>"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:1497
+msgid "Plugin"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:1498
+msgid "Source"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:1499
+msgid "Type"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:1500
+msgid "Status"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:1518
+msgid "Install"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:1519
+msgid "Activate"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:2090
+msgid "Install package not available."
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:2091
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:2092
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:2093
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:2094
+msgid "Plugin install failed."
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:2095
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:2106
+msgid "Plugin activation failed."
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:2229
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:2230
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:2234
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:2235
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:2235
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:2242
+msgid "Show Details"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:2235
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:2242
+msgid "Hide Details"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:2236
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:2237
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:2241
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:2242
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:2243
+msgid "All installations have been completed."
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/class-tgm-plugin-activation.php:2244
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/enqueue-script-css.php:136
+msgid "Compare"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/enqueue-script-css.php:137
+msgid "WishList"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/enqueue-script-css.php:138
+msgid "Add to cart"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/enqueue-script-css.php:146
+msgid "View cart"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/register-require-plugin.php:147
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/register-require-plugin.php:160
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/theme-setup.php:29
+msgid "Primary Menu"
+msgstr ""
+
+#: svn\zorka\trunk/lib/inc-functions/theme-setup.php:76
+msgid "Theme Options"
+msgstr ""
+
+#: svn\zorka\trunk/lib/tax-meta-class/Tax-meta-class.php:373
+#: svn\zorka\trunk/lib/tax-meta-class/Tax-meta-class.php:420
+#: svn\zorka\trunk/plugins/meta-box/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr ""
+
+#: svn\zorka\trunk/lib/tax-meta-class/Tax-meta-class.php:386
+msgid "Add"
+msgstr ""
+
+#: svn\zorka\trunk/lib/tax-meta-class/Tax-meta-class.php:719
+msgid "Remove Image"
+msgstr ""
+
+#: svn\zorka\trunk/lib/tax-meta-class/Tax-meta-class.php:721
+msgid "Upload Image"
+msgstr ""
+
+#: svn\zorka\trunk/lib/tax-meta-class/Tax-meta-class.php:741
+msgid "Select a color"
+msgstr ""
+
+#: svn\zorka\trunk/lib/walkers/zorka-category.php:114
+#, php-format
+msgid "Feed for all posts filed under %s"
+msgstr ""
+
+#: svn\zorka\trunk/lib/widgets/footer-logo-widget.php:11
+msgid "Logo and sub description"
+msgstr ""
+
+#: svn\zorka\trunk/lib/widgets/footer-logo-widget.php:13
+msgid "Zorka: Footer Logo"
+msgstr ""
+
+#: svn\zorka\trunk/lib/widgets/footer-logo-widget.php:18
+#: svn\zorka\trunk/lib/widgets/product-category-widget.php:51
+msgid "Sub Description"
+msgstr ""
+
+#: svn\zorka\trunk/lib/widgets/footer-logo-widget.php:40
+msgid "Zorka logo"
+msgstr ""
+
+#: svn\zorka\trunk/lib/widgets/g5plus-widget.php:34
+msgid "Custom class"
+msgstr ""
+
+#: svn\zorka\trunk/lib/widgets/g5plus-widget.php:182
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:97
+msgid "Click to browse icon"
+msgstr ""
+
+#: svn\zorka\trunk/lib/widgets/g5plus-widget.php:182
+#: svn\zorka\trunk/lib/widgets/g5plus-widget.php:194
+msgid "Browse..."
+msgstr ""
+
+#: svn\zorka\trunk/lib/widgets/g5plus-widget.php:194
+msgid "Click to browse image"
+msgstr ""
+
+#: svn\zorka\trunk/lib/widgets/product-category-widget.php:21
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:727
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:795
+msgid "Product Category"
+msgstr ""
+
+#: svn\zorka\trunk/lib/widgets/product-category-widget.php:23
+msgid "Zorka: Product Category"
+msgstr ""
+
+#: svn\zorka\trunk/lib/widgets/product-category-widget.php:28
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:148
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:191
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:251
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:403
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:450
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:583
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:719
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:907
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:941
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1065
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1134
+msgid "Title"
+msgstr ""
+
+#: svn\zorka\trunk/lib/widgets/product-category-widget.php:33
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:633
+msgid "Category"
+msgstr ""
+
+#: svn\zorka\trunk/lib/widgets/product-category-widget.php:39
+msgid "Width"
+msgstr ""
+
+#: svn\zorka\trunk/lib/widgets/product-category-widget.php:41
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/portfolio.php:155
+msgid "Full width"
+msgstr ""
+
+#: svn\zorka\trunk/lib/widgets/product-featured-widget.php:25
+msgid "Product Featured Items"
+msgstr ""
+
+#: svn\zorka\trunk/lib/widgets/product-featured-widget.php:27
+msgid "Zorka: Product Featured Items"
+msgstr ""
+
+#: svn\zorka\trunk/lib/widgets/product-featured-widget.php:32
+msgid "Select product from"
+msgstr ""
+
+#: svn\zorka\trunk/lib/widgets/product-featured-widget.php:38
+msgid "Per page"
+msgstr ""
+
+#: svn\zorka\trunk/lib/widgets/product-featured-widget.php:144
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/products/sale-product.php:163
+msgid "No item found"
+msgstr ""
+
+#: svn\zorka\trunk/plugins/meta-box/inc/common.php:53
+msgid "Documentation"
+msgstr ""
+
+#: svn\zorka\trunk/plugins/meta-box/inc/common.php:54
+msgid "Extensions"
+msgstr ""
+
+#: svn\zorka\trunk/plugins/meta-box/inc/field.php:225
+msgid "+"
+msgstr ""
+
+#: svn\zorka\trunk/plugins/meta-box/inc/field.php:235
+msgid "&#8211;"
+msgstr ""
+
+#: svn\zorka\trunk/plugins/meta-box/inc/meta-box.php:245
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: svn\zorka\trunk/plugins/meta-box/inc/fields/autocomplete.php:18
+#: svn\zorka\trunk/plugins/meta-box/inc/fields/autocomplete.php:72
+msgid "Delete"
+msgstr ""
+
+#: svn\zorka\trunk/plugins/meta-box/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: svn\zorka\trunk/plugins/meta-box/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: svn\zorka\trunk/plugins/meta-box/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: svn\zorka\trunk/plugins/meta-box/inc/fields/file-input.php:40
+msgid "Select"
+msgstr ""
+
+#: svn\zorka\trunk/plugins/meta-box/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: svn\zorka\trunk/plugins/meta-box/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: svn\zorka\trunk/plugins/meta-box/inc/fields/file.php:98
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: svn\zorka\trunk/plugins/meta-box/inc/fields/image-advanced.php:23
+msgid "Select Images"
+msgstr ""
+
+#: svn\zorka\trunk/plugins/meta-box/inc/fields/map.php:48
+msgid "Find Address"
+msgstr ""
+
+#: svn\zorka\trunk/plugins/meta-box/inc/fields/oembed.php:55
+msgid "Embed HTML not available."
+msgstr ""
+
+#: svn\zorka\trunk/plugins/meta-box/inc/fields/oembed.php:77
+msgid "Preview"
+msgstr ""
+
+#: svn\zorka\trunk/plugins/meta-box/inc/fields/post.php:52
+msgid "Post"
+msgstr ""
+
+#: svn\zorka\trunk/plugins/meta-box/inc/fields/post.php:66
+#: svn\zorka\trunk/plugins/meta-box/inc/fields/taxonomy.php:40
+#: svn\zorka\trunk/plugins/meta-box/inc/fields/user.php:62
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: svn\zorka\trunk/plugins/meta-box/inc/fields/user.php:54
+msgid "User"
+msgstr ""
+
+#: svn\zorka\trunk/templates/header/header-6.php:37
+#: svn\zorka\trunk/templates/header/header-7.php:37
+#: svn\zorka\trunk/templates/header/header-8.php:37
+msgid "Let's Search"
+msgstr ""
+
+#: svn\zorka\trunk/templates/header/language.php:8
+msgid "Language"
+msgstr ""
+
+#: svn\zorka\trunk/templates/header/login-link.php:8
+msgid "Welcome Guest!"
+msgstr ""
+
+#: svn\zorka\trunk/templates/header/login-link.php:9
+msgid "Log In"
+msgstr ""
+
+#: svn\zorka\trunk/templates/header/login-link.php:10
+msgid "Or"
+msgstr ""
+
+#: svn\zorka\trunk/templates/header/login-link.php:13
+msgid "Welcome "
+msgstr ""
+
+#: svn\zorka\trunk/templates/header/login-link.php:18
+msgid "Logout"
+msgstr ""
+
+#: svn\zorka\trunk/templates/header/my-setting.php:19
+msgid "Wish List"
+msgstr "WishList"
+
+#: svn\zorka\trunk/templates/header/my-setting.php:21
+msgid "Shopping Cart"
+msgstr ""
+
+#: svn\zorka\trunk/templates/header/my-setting.php:22
+#: svn\zorka\trunk/woocommerce/cart/mini-cart.php:79
+msgid "Checkout"
+msgstr ""
+
+#: svn\zorka\trunk/templates/header/social-link.php:6
+msgid "Linked In"
+msgstr ""
+
+#: svn\zorka\trunk/templates/header/social-link.php:9
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/our-team/our-team.php:203
+msgid "Dribbble"
+msgstr ""
+
+#: svn\zorka\trunk/templates/header/social-link.php:10
+msgid "Google Plus"
+msgstr ""
+
+#: svn\zorka\trunk/templates/header/social-link.php:11
+msgid "Vimeo"
+msgstr ""
+
+#: svn\zorka\trunk/templates/header/social-link.php:13
+msgid "Youtube"
+msgstr ""
+
+#: svn\zorka\trunk/templates/header/social-link.php:14
+msgid "Instagram"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:81
+msgid "CSS Animation"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:85
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:666
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:757
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:811
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:819
+msgid "No"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:86
+msgid "Top to bottom"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:87
+msgid "Bottom to top"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:88
+msgid "Left to right"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:89
+msgid "Right to left"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:90
+msgid "Appear from center"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:91
+msgid "FadeIn"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:93
+msgid ""
+"Select type of animation if you want this element to be animated when it "
+"enters into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:97
+msgid "Animation Duration"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:100
+msgid ""
+"Duration in seconds. You can use decimal points in the value. Use this field "
+"to specify the amount of time the animation plays. <em>The default value "
+"depends on the animation, leave blank to use the default.</em>"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:105
+msgid "Animation Delay"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:108
+msgid ""
+"Delay in seconds. You can use decimal points in the value. Use this field to "
+"delay the animation for a few seconds, this is helpful if you want to chain "
+"different effects one after another above the fold."
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:113
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:552
+msgid "Extra class name"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:115
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:555
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:118
+msgid "Zorka Color"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:119
+msgid "Grey"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:120
+msgid "Blue"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:121
+msgid "Turquoise"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:122
+msgid "Green"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:123
+msgid "Orange"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:124
+msgid "Red"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:125
+msgid "Black"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:128
+msgid "Same window"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:129
+msgid "New window"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:132
+msgid "Headings"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:136
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:172
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:239
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:316
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:362
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:393
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:415
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:470
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:541
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:579
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:707
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:791
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:853
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:895
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:928
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:978
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1046
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1087
+msgid "Zorka Shortcodes"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:143
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:179
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:246
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:323
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:714
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:860
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:902
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:936
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1053
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1095
+msgid "style 1"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:143
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:179
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:246
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:323
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:714
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:860
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:902
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:936
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1053
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1095
+msgid "style 2"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:143
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:179
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:246
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:323
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:902
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1095
+msgid "style 3"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:143
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:179
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:323
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:902
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1095
+msgid "style 4"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:144
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:180
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:247
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:324
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:715
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:861
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:903
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:937
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1054
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1096
+msgid "Select Layout Style."
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:155
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:197
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:257
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:378
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1141
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/templates/single/bigslider.php:24
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/templates/single/sidebar.php:62
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/templates/single/smallslider.php:25
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/templates/single/verticalslider.php:56
+msgid "Description"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:158
+msgid "Provide the description for this heading"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:168
+msgid "Call To Action"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:179
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1095
+msgid "style 5"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:187
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:986
+msgid "Select images from media library."
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:204
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:263
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1058
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1100
+msgid "Select Icon:"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:207
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:266
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1061
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1103
+msgid "Select the icon from the list."
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:212
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:335
+msgid "Button Label"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:218
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:341
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1128
+msgid "Link (url)"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:224
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:347
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:226
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:285
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:303
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:349
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:868
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:966
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1027
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1033
+msgid "Yes, please"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:235
+msgid "Parallax Sections"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:271
+msgid "Button 1: Label"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:277
+msgid "Button 1: Link (url)"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:283
+msgid "Button 1: Open link in a new window/tab"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:289
+msgid "Button 2: Label"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:295
+msgid "Button 2: Link (url)"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:301
+msgid "Button 2: Open link in a new window/tab"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:312
+msgid "Button"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:328
+msgid "Size"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:331
+msgid "small"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:331
+msgid "medium"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:331
+msgid "large"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:358
+msgid "Banner"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:366
+msgid "Title 1"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:372
+msgid "Title 2"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:389
+msgid "Counter"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:397
+msgid "Value"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:411
+msgid "Pie chart"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:416
+msgid "Animated pie chart"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:420
+msgid "Pie value"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:422
+msgid "Input graph value here. Choose range between 0 and 100."
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:428
+msgid "Pie label value"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:430
+msgid "Input integer value for label. If empty \"Pie value\" will be used."
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:435
+msgid "Units"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:437
+msgid ""
+"Enter measurement units (if needed) Eg. %, px, points, etc. Graph value and "
+"unit will be appended to the graph title."
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:441
+msgid "Bar color"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:444
+msgid "Select pie chart color."
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:466
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/portfolio.php:60
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/portfolio.php:65
+msgid "Portfolio"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:474
+msgid "Portfolio Category"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:481
+msgid "Show Category"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:484
+msgid "Show in left"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:484
+msgid "Show in center"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:484
+msgid "Show in right"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:488
+msgid "Number of column"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:494
+msgid "Number of item (or number of item per page if choose show paging)"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:500
+msgid "Show Paging (or show loading more)"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:503
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:735
+msgid "Show"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:507
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:597
+msgid "Padding"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:509
+msgid "No padding"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:513
+msgid "Layout Type"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:516
+msgid "Grid"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:516
+msgid "Info"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:520
+msgid "Overlay Style"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:523
+msgid "Icon"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:523
+msgid "Title & Category"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:524
+msgid "Icon & Title"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:524
+msgid "Zoom Out"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:537
+msgid "Countdown"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:545
+msgid "Countdown Type"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:548
+msgid "Coming Soon"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:548
+msgid "Under Construction"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:575
+#: svn\zorka\trunk/woocommerce/cart/cart.php:28
+msgid "Product"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:590
+msgid "Title style"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:592
+msgid "Border bottom inline"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:593
+msgid "Border bottom full"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:599
+msgid "No Padding"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:600
+msgid "Padding 10px"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:601
+msgid "Padding 15px"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:602
+msgid "Padding 20px"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:606
+msgid "Background color"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:612
+msgid "Select product source"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:614
+msgid "From feature"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:615
+msgid "From category"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:621
+msgid "Feature"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:623
+msgid "Sale Off"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:624
+msgid "New In"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:625
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/products/trending-product.php:95
+msgid "Featured"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:626
+msgid "Top rated"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:627
+msgid "Recent review"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:640
+msgid "Style"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:642
+msgid "Style 1"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:643
+msgid "Style 2"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:644
+msgid "Style 3"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:649
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:740
+msgid "Per Page"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:653
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:744
+msgid "How much items per page to show"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:657
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:748
+msgid "Columns"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:660
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:751
+msgid "How much columns grid"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:664
+msgid "Display Slider"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:666
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:758
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:812
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:820
+msgid "Yes"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:671
+msgid "Navigator position"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:673
+msgid "Center"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:673
+msgid "Top - right"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:678
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:763
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:825
+msgid "Order by"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:680
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:765
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:827
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/our-team/our-team.php:37
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/portfolio.php:209
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/testimonial/testimonial.php:25
+msgid "Date"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:680
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:765
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:827
+msgid "ID"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:681
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:766
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:828
+msgid "Author"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:681
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:766
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:828
+msgid "Modified"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:682
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:767
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:829
+msgid "Random"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:682
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:767
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:829
+msgid "Comment count"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:683
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:768
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:830
+msgid "Menu Order"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:685
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:770
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:832
+msgid "Select how to sort retrieved products."
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:689
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:774
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:836
+msgid "Order way"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:691
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:776
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:838
+msgid "Descending"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:691
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:776
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:838
+msgid "Ascending"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:692
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:777
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:839
+msgid "Designates the ascending or descending orde."
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:703
+msgid "Trending Product"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:733
+msgid "Display Featured Product"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:755
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:809
+msgid "Slider"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:787
+msgid "Product Categories"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:801
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:872
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:948
+msgid "Number Column"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:817
+msgid "Hide empty"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:849
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/our-team/our-team.php:120
+msgid "Our Team"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:865
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:963
+msgid "Slider Style"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:880
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:957
+msgid "Item Amount"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:891
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/testimonial/testimonial.php:49
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/testimonial/testimonial.php:73
+msgid "Testimonials"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:913
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1071
+msgid "Sub Title"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:925
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:929
+msgid "Latest Posts"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:975
+msgid "Partner Carousel"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:979
+msgid "Animated carousel with images"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:990
+msgid "Image size"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:992
+msgid ""
+"Enter image size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height). Leave empty to use \"thumbnail\" size."
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:996
+msgid "Custom links"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:998
+msgid ""
+"Enter links for each slide here. Divide links with linebreaks (Enter) . "
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1006
+msgid "Custom link target"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1008
+msgid "Select where to open  custom links."
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1017
+msgid "Slides per view"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1020
+msgid "Set numbers of slides you want to display"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1024
+msgid "Slider autoplay"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1026
+msgid "Enables autoplay mode."
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1031
+msgid "Show pagination control"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1043
+msgid "MailChimp"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1084
+msgid "Icon Box"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1107
+msgid "Icon position"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1109
+msgid "left"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1109
+msgid "right"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1109
+msgid "center"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1114
+msgid "Icon Background Color"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1121
+msgid "Background Color"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1137
+msgid "Provide the title for this icon box."
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/shortcode.php:1144
+msgid "Provide the description for this icon box."
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/latest-post/latest-post.php:80
+msgid "0 Comment"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/latest-post/latest-post.php:80
+msgid "1 Comment"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/latest-post/latest-post.php:80
+msgid "% Comments"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/our-team/our-team.php:34
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/testimonial/testimonial.php:22
+msgid "Name"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/our-team/our-team.php:35
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/our-team/our-team.php:65
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/testimonial/testimonial.php:23
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/testimonial/testimonial.php:53
+msgid "Job"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/our-team/our-team.php:36
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/testimonial/testimonial.php:24
+msgid "Picture"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/our-team/our-team.php:61
+msgid "Our Team Information"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/our-team/our-team.php:70
+msgid "Facebook URL"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/our-team/our-team.php:75
+msgid "Twitter URL"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/our-team/our-team.php:80
+msgid "Google URL"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/our-team/our-team.php:85
+msgid "Dribbble URL"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/our-team/our-team.php:90
+msgid "Linked In URL"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/our-team/our-team.php:95
+msgid "Phone"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/our-team/our-team.php:115
+msgid "zorka_our_team"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/our-team/our-team.php:116
+msgid "Our Team Description"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/our-team/our-team.php:121
+msgid "All Our Team"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/our-team/our-team.php:122
+msgid "Add New Our Team"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/our-team/our-team.php:206
+msgid "Linkedin"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/our-team/single-our-team.php:32
+msgid "Phone:  "
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/our-team/single-our-team.php:37
+msgid "Email:  "
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/portfolio.php:61
+msgid "Portfolio Description"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/portfolio.php:66
+msgid "Parent Item:"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/portfolio.php:67
+msgid "All Portfolio"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/portfolio.php:68
+msgid "View Item"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/portfolio.php:69
+msgid "Add New Portfolio"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/portfolio.php:70
+msgid "Add New"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/portfolio.php:71
+msgid "Edit Item"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/portfolio.php:72
+msgid "Update Item"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/portfolio.php:73
+msgid "Search Item"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/portfolio.php:74
+msgid "Not found"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/portfolio.php:75
+msgid "Not found in Trash"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/portfolio.php:91
+msgid "Portfolio Categories"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/portfolio.php:135
+msgid "Portfolio Extra"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/portfolio.php:140
+msgid "Client"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/portfolio.php:145
+msgid "Gallery"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/portfolio.php:150
+msgid "View Detail Style"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/portfolio.php:156
+msgid "Big Slider"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/portfolio.php:157
+msgid "Small Slider"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/portfolio.php:158
+msgid "Sidebar"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/portfolio.php:159
+msgid "Vertical Slider"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/portfolio.php:206
+msgid "Porfolio Name"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/portfolio.php:207
+msgid "Thumbnail"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/portfolio.php:208
+msgid "Categories"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/portfolio.php:244
+msgid "Show All Categories"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/templates/listing.php:42
+msgid "All"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/templates/listing.php:87
+msgid "LOAD MORE"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/templates/single/bigslider.php:28
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/templates/single/fullwidth.php:25
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/templates/single/sidebar.php:38
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/templates/single/smallslider.php:32
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/templates/single/verticalslider.php:33
+msgid "Project Detail"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/templates/single/bigslider.php:30
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/templates/single/fullwidth.php:27
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/templates/single/sidebar.php:40
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/templates/single/smallslider.php:34
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/templates/single/verticalslider.php:35
+msgid "Date:"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/templates/single/bigslider.php:34
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/templates/single/fullwidth.php:31
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/templates/single/sidebar.php:44
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/templates/single/smallslider.php:38
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/templates/single/verticalslider.php:39
+msgid "Category:"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/templates/single/bigslider.php:39
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/templates/single/fullwidth.php:36
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/templates/single/sidebar.php:49
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/templates/single/smallslider.php:43
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/portfolio/templates/single/verticalslider.php:44
+msgid "Client:"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/testimonial/testimonial.php:68
+msgid "zorka_testimonial"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/testimonial/testimonial.php:69
+msgid "Testimonial Description"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/testimonial/testimonial.php:74
+msgid "All Testimonials"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/testimonial/testimonial.php:75
+msgid "Add New Testimonial"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:97
+msgid "Browse Icon"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:302
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:404
+msgid "Row ID"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:320
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:422
+msgid "Set parallax effect"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:323
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:425
+msgid "No Parallax"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:324
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:426
+msgid "Vertical Parallax On Scroll"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:325
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:427
+msgid "Horizontal Parallax On Scroll"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:327
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:429
+msgid "Select the kind of style you like for the background image of this row."
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:333
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:435
+msgid "Scroll effect"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:336
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:438
+msgid "Fixed at its position"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:337
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:439
+msgid "Move with the content"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:339
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:441
+msgid ""
+"Options to set whether a background image is fixed or scroll with the rest "
+"of the page."
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:346
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:448
+msgid "Parallax speed"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:351
+msgid "Control speed of parallax. Enter value between 0 to 100"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:358
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:460
+msgid "Show background overlay"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:360
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:462
+msgid "Hide or Show overlay on background images."
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:362
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:464
+msgid "Hide, please"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:363
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:465
+msgid "Show Overlay Color"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:364
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:466
+msgid "Show Overlay Image"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:371
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:473
+msgid "Upload image:"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:374
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:476
+msgid "Upload image overlay."
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:381
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:483
+msgid "Overlay color"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:383
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:485
+msgid "Select color for background overlay."
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:391
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:493
+msgid "Overlay opacity"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:397
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:499
+msgid "Select opacity for overlay."
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:453
+msgid "Control speed of parallax. Enter value between 1 to 100"
+msgstr ""
+
+#: svn\zorka\trunk/theme-plugins/zorka-shortcode/vc-extend/vc-extend.php:521
+msgid "Select All"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/content-featured-widget-product.php:60
+#: svn\zorka\trunk/woocommerce/content-product-style-2.php:52
+#: svn\zorka\trunk/woocommerce/content-product-style-3.php:52
+#: svn\zorka\trunk/woocommerce/content-product.php:68
+msgid "Quick view"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/content-product-cat.php:76
+msgid " Items"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/cart/cart-shipping.php:20
+#, php-format
+msgid "Shipping #%d"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/cart/cart-shipping.php:22
+#: svn\zorka\trunk/woocommerce/cart/cart-shipping.php:97
+msgid "Shipping"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/cart/cart-shipping.php:59
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/cart/cart-shipping.php:63
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/cart/cart-shipping.php:67
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/cart/cart-shipping.php:76
+#: svn\zorka\trunk/woocommerce/cart/cart-shipping.php:82
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/cart/cart-totals.php:23
+msgid "Cart Totals"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/cart/cart-totals.php:28
+#: svn\zorka\trunk/woocommerce/cart/mini-cart.php:73
+msgid "Subtotal"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/cart/cart-totals.php:75
+#: svn\zorka\trunk/woocommerce/cart/cart.php:31
+msgid "Total"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/cart/cart-totals.php:87
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/cart/cart-totals.php:90
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/cart/cart.php:29
+msgid "Price"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/cart/cart.php:30
+msgid "Quantity"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/cart/cart.php:48
+#: svn\zorka\trunk/woocommerce/cart/mini-cart.php:55
+msgid "Remove this item"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/cart/cart.php:75
+msgid "Available on backorder"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/cart/cart.php:120
+msgid "Coupon"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/cart/cart.php:120
+#: svn\zorka\trunk/woocommerce/checkout/form-coupon.php:23
+msgid "Coupon code"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/cart/cart.php:120
+#: svn\zorka\trunk/woocommerce/checkout/form-coupon.php:26
+msgid "Apply Coupon"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/cart/cart.php:127
+msgid "Update Cart"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/cart/cross-sells.php:43
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/cart/mini-cart.php:64
+msgid "An empty cart"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/cart/mini-cart.php:65
+msgid "You have no item in your shopping cart"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/cart/mini-cart.php:78
+msgid "View Cart"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/checkout/form-billing.php:20
+msgid "Create an Account"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/checkout/form-billing.php:28
+msgid "Create an account?"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/checkout/form-billing.php:39
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/checkout/form-billing.php:54
+#: svn\zorka\trunk/woocommerce/checkout/form-billing.php:90
+#: svn\zorka\trunk/woocommerce/checkout/form-checkout.php:60
+#: svn\zorka\trunk/woocommerce/checkout/form-login.php:51
+msgid "Continue"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/checkout/form-billing.php:73
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/checkout/form-billing.php:75
+msgid "Billing Details"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/checkout/form-checkout.php:54
+msgid "Shipping Address"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/checkout/form-checkout.php:70
+msgid "Your order"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/checkout/form-coupon.php:18
+#: svn\zorka\trunk/woocommerce/checkout/form-coupon.php:21
+msgid "Have a coupon?"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/checkout/form-coupon.php:18
+msgid "Click here to enter your code"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/checkout/form-login.php:18
+msgid "Returning customer?"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/checkout/form-login.php:19
+msgid "Click here to login"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/checkout/form-login.php:25
+msgid "Checkout Method"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/checkout/form-login.php:33
+msgid "New Customer"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/checkout/form-login.php:36
+msgid "Checkout as a Guest"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/checkout/form-login.php:41
+msgid "Create new account"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/checkout/form-login.php:45
+msgid "Register with us for future convenience:"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/checkout/form-login.php:47
+msgid "+ Fast and easy checkout."
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/checkout/form-login.php:49
+msgid "+ Easy access to your order history and status."
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/checkout/form-login.php:61
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/loop/sale-flash.php:52
+#: svn\zorka\trunk/woocommerce/single-product/sale-flash.php:51
+msgid "New"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/loop/sale-flash.php:62
+#: svn\zorka\trunk/woocommerce/single-product/sale-flash.php:61
+msgid "Days"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/loop/sale-flash.php:66
+#: svn\zorka\trunk/woocommerce/single-product/sale-flash.php:65
+msgid "Hours"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/loop/sale-flash.php:70
+#: svn\zorka\trunk/woocommerce/single-product/sale-flash.php:69
+msgid "Minutes"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/loop/sale-flash.php:74
+#: svn\zorka\trunk/woocommerce/single-product/sale-flash.php:73
+msgid "Seconds"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/single-product/meta.php:29
+msgid "SKU:"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/single-product/meta.php:29
+msgid "N/A"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/single-product/meta.php:33
+msgid "Availability:"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/single-product/meta.php:33
+msgid "In Stock"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/single-product/meta.php:33
+msgid "Out Of Stock"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/single-product/meta.php:36
+msgid "Size:"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/single-product/meta.php:40
+msgid "Shipping Weight:"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/single-product/related.php:44
+msgid "Related Products"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/single-product/share.php:33
+msgid "Share this:"
+msgstr ""
+
+#: svn\zorka\trunk/woocommerce/single-product/up-sells.php:46
+msgid "You may also like&hellip;"
+msgstr ""
